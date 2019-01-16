@@ -4,7 +4,7 @@ Supplementary materials to the 'Python for Fantasy Football' article series on w
 ## Series 1: Scraping and Manipulating
 -----
 
-| N | Link |
+|  | Link |
 | - | -------------------------------------------------- |
 | 1 | [Introduction to Manipulating Tables/List](http://www.fantasyfutopia.com/python-for-fantasy-football-introduction/) |
 | 2 | [Matchup Adjustment](http://www.fantasyfutopia.com/python-for-fantasy-football-matchup-adjustment/) |
@@ -16,7 +16,7 @@ Supplementary materials to the 'Python for Fantasy Football' article series on w
 ## Series 2: Machine Learning
 -----
 
-| N | Link |
+|  | Link |
 | - | -------------------------------------------------- |
 | 5 | [Intro to Machine Learning](http://www.fantasyfutopia.com/python-for-fantasy-football-introduction-to-machine-learning/) |
 | 6 | [Addressing Class Imbalance](http://www.fantasyfutopia.com/python-for-fantasy-football-addressing-class-imbalance-in-machine-learning/) |

@@ -4,8 +4,8 @@ Supplementary materials to the 'Python for Fantasy Football' article series on w
 ## Series 1: Scraping and Manipulating
 -----
 
-|  | Project |
-| --- | -------------------------------------------------- |
+|  | File | Lesson |
+| --- | --- | --- |
 | 1 | [Introduction to Manipulating Dataframe](./1-intro/ex1-intro.ipynb) | [L1](http://www.fantasyfutopia.com/python-for-fantasy-football-introduction/) | 
 | 2 | [Matchup Adjustment]() | [L2](http://www.fantasyfutopia.com/python-for-fantasy-football-matchup-adjustment/) |
 | 3 | [Cleaning Data]() | [L3](http://www.fantasyfutopia.com/python-for-fantasy-football-getting-and-cleaning-data/) |
@@ -16,7 +16,7 @@ Supplementary materials to the 'Python for Fantasy Football' article series on w
 ## Series 2: Machine Learning
 -----
 
-|  | Project | Web Lesson |
+|  | File | Lesson |
 | --- | --- | --- |
 | 5 | [Intro to Machine Learning]() | [L5](http://www.fantasyfutopia.com/python-for-fantasy-football-introduction-to-machine-learning/) | 
 | 6 | [Addressing Class Imbalance]() | [L6](http://www.fantasyfutopia.com/python-for-fantasy-football-addressing-class-imbalance-in-machine-learning/) |

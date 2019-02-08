@@ -1,5 +1,5 @@
 # py-4-ff: fork of python-for-fantasy-football
-Supplementary materials to the 'Python for Fantasy Football' article series on www.fantasyfutopia.com
+Supplementary materials to the 'Python for Fantasy Football' - series on www.fantasyfutopia.com
 
 ## Series 1: Scraping and Manipulating
 -----
@@ -7,7 +7,7 @@ Supplementary materials to the 'Python for Fantasy Football' article series on w
 |  | File | Lesson |
 | --- | --- | --- |
 | 1 | [Introduction to Manipulating Dataframe](./1-intro/ex1-intro.ipynb) | [L1](https://www.fantasyfutopia.com/python-for-fantasy-football-introduction/) |
-| 2 | [Matchup Adjustment]() | [L2](https://www.fantasyfutopia.com/python-for-fantasy-football-matchup-adjustment/) |
+| 2 | [Matchup Adjustment](./2-matchup_adjustment/ex2-matchup.ipynb) | [L2](https://www.fantasyfutopia.com/python-for-fantasy-football-matchup-adjustment/) |
 | 3 | [Cleaning Data]() | [L3](https://www.fantasyfutopia.com/python-for-fantasy-football-getting-and-cleaning-data/) |
 | 4 | [APIs and JSON]() | [L4](https://www.fantasyfutopia.com/python-for-fantasy-football-apis-and-json-data/) |
 
